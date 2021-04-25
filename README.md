@@ -9,10 +9,13 @@ Buy on Uniswap: BUY HOKK (https://app.uniswap.org/#/swap?inputCurrency=0xc40af1e
 
 DEXTools Chart: DEXTools
  (https://www.dextools.io/app/uniswap/pair-explorer/0x9314941c11d6dee1d7bf93113eb74d4718949f3b)
+ 
 CoinGecko: CoinGecko
  (https://www.coingecko.com/en/coins/hokkaidu-inu)
+ 
 Etherscan: Etherscan
  (https://etherscan.io/token/0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e)
+ 
 Website: https://hokk.finance/
 
 Twitter: https://twitter.com/hokkaiduinu
